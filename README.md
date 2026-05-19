@@ -2,7 +2,6 @@
 
 **`Desenvolvedor Estudante`**
 
-Me chamo Luis Guilherme, tenho 22 anos e atualmente cursando o 4º semestre de Engenharia de Software na Univille. Gosto de atuar como front-end em projetos mas ultimamente back-end também têm sido interessante. Meu objetivo neste perfil é através dos meus repositórios conseguir uma oportunidade na área de desenvolvimento para ingressar profissionalmente.
 
 ### 🤖 Linguagens e Tecnologias
 
